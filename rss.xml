@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Games</title>
+  <link>https://mop4games.com/pages/More%20For%20Games.html</link>
+  <description>المنصة العربية الأولى و الأكبر لتحميل ألعاب الكمبيوتر, مجانية و كاملة و بروابط مباشرة</description>
+  <item>
+    <title>Gta San Andreas</title>
+    <link>https://mop4games.com/Games/Gta%20San.html/xml/xml_rss.asp</link>
+    <description>المنصة العربية الأولى و الأكبر لتحميل ألعاب الكمبيوتر, مجانية و كاملة و بروابط مباشرة</description>
+  </item>
+  <item>
+    <title>Games</title>
+    <link>https://www.mop4games.com/xml</link>
+    <description>المنصة العربية الأولى و الأكبر لتحميل ألعاب الكمبيوتر, مجانية و كاملة و بروابط مباشرة</description>
+  </item>
+</channel>
+
+</rss>
